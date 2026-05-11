@@ -52,4 +52,3 @@ This project is a static portfolio website that serves as a central hub for my D
 4. Open your browser and navigate to `http://localhost`.
 
 ---
-*Developed as part of a continuous learning journey in DevOps Engineering.*
