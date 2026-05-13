@@ -52,3 +52,8 @@ This project is a static portfolio website that serves as a central hub for my D
 4. Open your browser and navigate to `http://localhost`.
 
 ---
+### Screenshots
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/86b0766a-8b59-4efa-8f9c-8efa1ba9a378" />
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/1abfe841-20e2-456e-a86a-292be8efc95b" />
+<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/88b49cd0-9857-4dd0-b16c-e70467e32e9d" />
+
