@@ -79,9 +79,7 @@ http://localhost
 ---
 ## Screenshots
 
-<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/a63845e1-c655-4770-ab43-3db8853db466" />
-
-<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/fb8030f5-a543-4d64-994b-c450000a25cb" />
-
-<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/7875c226-b1a7-486b-9ac1-804c661d3f2e" />
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/348d2ec8-f122-4d24-9ff9-9e8e4bcf9b04" />
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/6d37d69e-09a2-445a-868b-646fbb3c2cb9" />
+<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/62afbb94-7880-463e-b2cc-d6699b967ef5" />
 
