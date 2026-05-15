@@ -77,12 +77,10 @@ docker run -d -p 80:80 --name portfolio-container portfolio-website
 ## Open in browser
 http://localhost
 ---
+## Screenshots
 
-### Screenshots
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/a63845e1-c655-4770-ab43-3db8853db466" />
 
-<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/e7cc24b7-ecd7-4252-884f-cbb3b118fb05" />
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/fb8030f5-a543-4d64-994b-c450000a25cb" />
 
-<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/cc9a3f3c-56d3-458d-9ee2-69a10c4c9e79" />
-
-<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/cb2883fe-fad9-4f06-bdfd-36514738b80d" />
-
+<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/7875c226-b1a7-486b-9ac1-804c661d3f2e" />
